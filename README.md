@@ -22,3 +22,6 @@ npm install vue-resource --save
 
 # Install vue router
 npm install vue-router --save
+
+URL on this course:
+https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=2317s
